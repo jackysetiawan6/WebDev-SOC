@@ -1,7 +1,9 @@
 @extends('layouts.app')
 
-@section('title', 'Testing')
+@section('title', 'Login')
 
 @section('content')
-adawdw
+<div class="container">
+    adwdw
+</div>
 @endsection
